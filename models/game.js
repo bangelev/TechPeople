@@ -9,6 +9,7 @@ const gameSchema = new mongoose.Schema({
     description: {
         type: String,
         required: [true, 'Please enter a short description'],
+        maxLength: 100,
     },
     instructions: {
         type: String,
@@ -19,8 +20,8 @@ const gameSchema = new mongoose.Schema({
         enum: [
             'indoors',
             'outdoors',
-            'collective',
-            'individual',
+            'family',
+            'kids',
             'Curiosita',
             'Dimostrazione',
             'Sensaione',
@@ -42,6 +43,7 @@ const gameSchema = new mongoose.Schema({
     },
     props: {
         type: [String],
+        // required: true,
     },
     proxPlayingTime: {
         type: Number,

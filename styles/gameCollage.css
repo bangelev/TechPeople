@@ -1,0 +1,32 @@
+.wrapper {
+    margin: 1em auto 0 auto;
+    max-width: 90%;
+}
+
+h1 {
+    font-size: 1.6em;
+    text-align: center;
+    padding: 1em;
+    color: #3c605d;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+figure {
+    margin-bottom: 0.8em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.post-image:nth-last-child(n + 2):nth-last-child(-n + 2):first-child,
+.post-image:nth-last-child(n + 2):nth-last-child(-n + 2):first-child~.post-image {
+    flex: 0 1 48%;
+}
+
+.post-image:nth-last-child(n + 3):nth-last-child(-n + 3):first-child,
+.post-image:nth-last-child(n + 3):nth-last-child(-n + 3):first-child~.post-image {
+    flex: 0 1 31%;
+}

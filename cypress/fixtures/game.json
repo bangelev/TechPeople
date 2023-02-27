@@ -1,0 +1,11 @@
+{
+    "name": "Cowboys & indians",
+    "description": "Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora.",
+    "category": ["indoors", "family"],
+    "typeOfUser": "children",
+    "props": ["guns", "arrows"],
+    "proxPlayingTime": 30,
+    "minAge": 8,
+    "createdAt": "2022-10-24T15:04:58.179+00:00",
+    "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in rutrum turpis, id euismod diam. Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora."
+}

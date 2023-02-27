@@ -1,0 +1,68 @@
+[{
+        "name": "Cowboys & indians",
+        "description": "Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora.",
+        "category": ["indoors", "family"],
+        "typeOfUser": "children",
+        "props": ["guns", "arrows"],
+        "proxPlayingTime": 30,
+        "minAge": 8,
+        "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in rutrum turpis, id euismod diam. Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora."
+    },
+    {
+        "name": "Hide & seek",
+        "description": "Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora.",
+        "category": ["indoors", "Sfumato"],
+        "typeOfUser": "family",
+        "proxPlayingTime": 30,
+        "minAge": 6,
+        "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in rutrum turpis, id euismod diam. Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora."
+    },
+    {
+        "name": "Folks game",
+        "description": "Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora.",
+        "category": ["outdoors", "family"],
+        "typeOfUser": "children",
+        "proxPlayingTime": 30,
+        "minAge": 10,
+        "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in rutrum turpis, id euismod diam. Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora."
+    },
+    {
+        "name": "Prchi Gaze",
+        "description": "Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora.",
+        "category": ["outdoors", "family"],
+        "typeOfUser": "children",
+        "props": ["ball"],
+        "proxPlayingTime": 30,
+        "minAge": 10,
+        "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in rutrum turpis, id euismod diam. Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora."
+    },
+    {
+        "name": "Fast geography",
+        "description": "Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora.",
+        "category": ["indoors", "Sfumato"],
+        "typeOfUser": "both",
+        "props": ["blan paper", "pen/pencil", ""],
+        "proxPlayingTime": 30,
+        "minAge": 12,
+        "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in rutrum turpis, id euismod diam. Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora."
+    },
+    {
+        "name": "On the bukvata, on the bukvata",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in rutrum turpis, id euismod diam. ",
+        "category": ["indoors", "Arte/Scienca"],
+        "typeOfUser": "both",
+        "proxPlayingTime": 30,
+        "minAge": 9,
+        "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in rutrum turpis, id euismod diam. Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora."
+    },
+    {
+        "name": "Monopoly",
+        "description": "Aliquam in rutrum turpis, id euismod diam. Duis id enim sodales, laoreet ex non, bibendum arcu. ",
+        "category": ["indoors", "Sfumato"],
+        "typeOfUser": "both",
+        "props": ["Monopoly the game"],
+        "proxPlayingTime": 60,
+        "minAge": 8,
+        "instructions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in rutrum turpis, id euismod diam. Duis id enim sodales, laoreet ex non, bibendum arcu. Class aptent taciti sociosqu ad litora."
+    }
+]

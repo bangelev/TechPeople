@@ -1,0 +1,43 @@
+[{
+        "videoUrl": "https://www.youtube.com/embed/JgaPgTN1F7A?clip=Ugkx2qXjx9-F5mZApXzEnxoWoxElkbyRyrpn&amp;clipt=EAAYsM8D",
+        "principleNo": "I",
+        "principle": "CURIOSITY",
+        "imgUrl": "/principleImgs/curiosity1.jpg"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/JgaPgTN1F7A?clip=Ugkx2qXjx9-F5mZApXzEnxoWoxElkbyRyrpn&amp;clipt=EAAYsM8D",
+        "principleNo": "II",
+        "principle": "DEMONSTRATION",
+        "imgUrl": "/principleImgs/demonstration1.jpg"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/JgaPgTN1F7A?clip=Ugkx2qXjx9-F5mZApXzEnxoWoxElkbyRyrpn&amp;clipt=EAAYsM8D",
+        "principleNo": "III",
+        "principle": "SENSATION",
+        "imgUrl": "/principleImgs/sensation1.jpg"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/JgaPgTN1F7A?clip=Ugkx2qXjx9-F5mZApXzEnxoWoxElkbyRyrpn&amp;clipt=EAAYsM8D",
+        "principleNo": "IV",
+        "principle": "SFUMATO",
+        "imgUrl": "/principleImgs/sfumato1.jpg"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/JgaPgTN1F7A?clip=Ugkx2qXjx9-F5mZApXzEnxoWoxElkbyRyrpn&amp;clipt=EAAYsM8D",
+        "principleNo": "V",
+        "principle": "ART & SCIENCE",
+        "imgUrl": "/principleImgs/art1.jpg"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/JgaPgTN1F7A?clip=Ugkx2qXjx9-F5mZApXzEnxoWoxElkbyRyrpn&amp;clipt=EAAYsM8D",
+        "principleNo": "VI",
+        "principle": "CORPORALITY",
+        "imgUrl": "/principleImgs/corporality1.jpg"
+    },
+    {
+        "videoUrl": "https://www.youtube.com/embed/JgaPgTN1F7A?clip=Ugkx2qXjx9-F5mZApXzEnxoWoxElkbyRyrpn&amp;clipt=EAAYsM8D",
+        "principleNo": "VII",
+        "principle": "CONNECTION",
+        "imgUrl": "/principleImgs/connection1.jpg"
+    }
+]
